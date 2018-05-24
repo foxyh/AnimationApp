@@ -1,0 +1,4 @@
+AnimationApp.MainActivity, AnimationApp;md5921ce917eb8d199c015a1ee544494dcc.MainActivity
+AnimationApp.MainActivity, AnimationApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5921ce917eb8d199c015a1ee544494dcc.MainActivity
+AnimationApp.MainActivity;md5921ce917eb8d199c015a1ee544494dcc.MainActivity
+animationapp.MainActivity;md5921ce917eb8d199c015a1ee544494dcc.MainActivity
